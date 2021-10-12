@@ -1,0 +1,25 @@
+.red {
+    background:red;
+    width:200px;
+    height:200px;
+}
+
+.yellow {
+    position:absolute;
+    background:yellow;
+    width:200px;
+    height:200px;
+    top:50px;
+    left:50px;
+    z-index:1;
+
+}
+
+.blue {
+    position:absolute;
+    background:blue;
+    width:200px;
+    height:200px;
+    top:100px;
+    left:100px;
+}
